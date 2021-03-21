@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Bhoomika Agarwal
 tagline:          'Personal website'
-description:      'This is the personal website of Bhoomika Agarwal'
+description:      'Coder, Data Scientist, Poet, Bibliophile, Teacher'
 url:              https://bhoom10.github.io
 baseurl:          /
 
@@ -17,7 +17,7 @@ author:
   name:           'Bhoomika Agarwal'
   url:            https://bhoom10.github.io
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          2.1.0
