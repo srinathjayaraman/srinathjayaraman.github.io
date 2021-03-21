@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            Bhoomika Agarwal
+tagline:          'Personal website'
+description:      'This is the personal website of Bhoomika Agarwal'
+url:              https://bhoom10.github.io
+baseurl:          /
+
+author:
+  name:           'Bhoomika Agarwal'
+  url:            https://bhoom10.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/bhoom10/bhoom10.github.io
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
