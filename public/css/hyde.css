@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Ubuntu', "PT Sans", Helvetica, Arial, sans-serif;
   font-display: swap;
 }
 @media (min-width: 48em) {
