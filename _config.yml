@@ -17,7 +17,7 @@ author:
   name:           'Bhoomika Agarwal'
   url:            https://bhoom10.github.io
 
-paginate:         1
+paginate:         5
 
 # Custom vars
 version:          2.1.0
