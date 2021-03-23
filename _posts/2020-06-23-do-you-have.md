@@ -41,5 +41,5 @@ P. P. S. : This quote by Nnennaya Amuchie summarizes my take on feminism: *“I 
 
 ### References:
 
-1. [Are women really stronger than men? | Angela Saini | The Guardian](https://www.theguardian.com/world/2017/jun/11/the-weaker-sex-science-that-shows-women-are-stronger-than-men)
-2. [Women are the stronger sex- And here’s the scientific proof | Sarah Knapton | The Telegraph](https://www.telegraph.co.uk/science/2018/01/08/women-biologically-stronger-men-likely-survive-life-threatening/)
+1. ['Are women really stronger than men?' by Angela Saini - The Guardian](https://www.theguardian.com/world/2017/jun/11/the-weaker-sex-science-that-shows-women-are-stronger-than-men)
+2. ['Women are the stronger sex - And here’s the scientific proof 'by Sarah Knapton - The Telegraph](https://www.telegraph.co.uk/science/2018/01/08/women-biologically-stronger-men-likely-survive-life-threatening/)
