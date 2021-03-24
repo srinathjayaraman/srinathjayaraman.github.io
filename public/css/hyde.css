@@ -75,7 +75,7 @@ html {
 .sidebar img.photo {
   border-radius: 50%;
   opacity: .7;
-  /* width: 50%; */
+  width: 90%;
 }
 .sidebar div.photo {
   text-align:center;
