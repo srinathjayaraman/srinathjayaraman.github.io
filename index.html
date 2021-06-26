@@ -1,0 +1,54 @@
+---
+layout: default
+title: Home
+---
+<h1>Who am I?</h1>
+<p>Hi there! I'm Srinath Jayaraman and I love programming, poetry, movies, and reading books. I express my creativity through my poetry. 
+</p>
+
+<p>I'm currently pursing my Masters in Computer Science at TU Delft. I am proficient in PL/SQL, MS SQL, Python, Go, and Scala. Ongoing experience with JavaScript. I also have 5 years of industry experience as an IT consultant, specializing in production support.</p>
+
+<p>This website has been created using <a href="https://github.com/jekyll/jekyll">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>. Credits to Jash Mehta for his super-simple tutorial on <a href="https://jashmehta3300.medium.com/how-to-make-a-blog-using-hyde-jekyll-and-host-it-on-github-pages-42123c239b8"><i>How to make a blog using Hyde (Jekyll) and host it on Github Pages</i></a> and to <a href="https://chrisschuld.com/">Chris Schuld</a> for inspiring some of the custom design of my personal website.</p>
+
+</br>
+<div>
+  <h2>Blog posts</h2>
+  {% for post in paginator.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+ </div>
+
+<!-- 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div> -->
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+
