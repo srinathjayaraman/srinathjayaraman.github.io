@@ -10,5 +10,5 @@ Here's an overview of my education:
 
 | Timeline |  Level | University/School| Details |
 |--|--|-- |--|
-| September 2019 to Present | Masters in Computer Science - Data Science Track | [Delft University of Technology, Netherlands](https://www.tudelft.nl/en/)|- *Master thesis:* Analysis of infrastructural development in port cities to understand their intersection with the growth of urban and regional infrastructures. <br/> - Studying the impact on public health, population changes, land use, and land prices over time. <br/> - *Current GPA:* 7.0 |
+| September 2019 to Present | Masters in Computer Science - Data Science Track | [Delft University of Technology, Netherlands](https://www.tudelft.nl/en/)|- *Master thesis:* Modify an existing machine learning algorithm that analyses cloud cover to research changes in forest cover. <br/> - *Current GPA:* 7.0 |
 | May 2010 to May 2014 | Bachelor  of  Technology - Electronics and Instrumentation Engineering | [B.S. Abdur Rahman University, Chennai, India](https://crescent.education/) | Graduated First  Class <br/> -  *Final Grade:*  77.42% (average of eight semesters) |
