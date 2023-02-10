@@ -10,5 +10,5 @@ Here's an overview of my education:
 
 | Timeline |  Level | University/School| Details |
 |--|--|-- |--|
-| September 2019 to Present | Masters in Computer Science - Data Science Track | [Delft University of Technology, Netherlands](https://www.tudelft.nl/en/)|- *Master thesis:* Modify an existing machine learning algorithm that analyses cloud cover to research changes in forest cover. <br/> - *Current GPA:* 7.0 |
+| September 2019 to November 2022 | Masters in Computer Science - Data Science Track | [Delft University of Technology, Netherlands](https://www.tudelft.nl/en/)|- *Master thesis:* Modify an existing machine learning algorithm that analyses cloud cover to research changes in forest cover. <br/> - *Current GPA:* 7.0 |
 | May 2010 to May 2014 | Bachelor  of  Technology - Electronics and Instrumentation Engineering | [B.S. Abdur Rahman University, Chennai, India](https://crescent.education/) | Graduated First  Class <br/> -  *Final Grade:*  77.42% (average of eight semesters) |
